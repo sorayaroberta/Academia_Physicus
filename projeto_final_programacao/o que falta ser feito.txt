@@ -1,0 +1,5 @@
+
+
+-visualizar quais usuários estão em débito 
+-emitir relatório de pagamentos= mensal.
+
